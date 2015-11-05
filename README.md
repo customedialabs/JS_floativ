@@ -46,5 +46,13 @@ You can also specify parameters, such as:
 ## Library compatibility
 This library works for IE8+, Mozilla Firefox 4+, Google Chrome 11+, Opera 10+, Safari 4+.
 
+## Collaborators
+* [George Bratsos](https://github.com/gbratsos)
+* [Panagiotis Papadatis](https://github.com/hennett)
+* [Vivi Zygoura]()
+
+## Contributors
+[George Raptis](https://github.com/georapbox)
+
 ## License
 [GPL-3.0](LICENSE)
