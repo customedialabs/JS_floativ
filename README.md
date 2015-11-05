@@ -52,7 +52,7 @@ This library works for IE8+, Mozilla Firefox 4+, Google Chrome 11+, Opera 10+, S
 * [Vivi Zygoura]()
 
 ## Contributors
-[George Raptis](https://github.com/georapbox)
+* [George Raptis](https://github.com/georapbox)
 
 ## Projects using floativ
 * [Sprix](http://sprix.com/Home.aspx)
