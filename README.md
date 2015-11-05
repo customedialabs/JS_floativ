@@ -54,5 +54,9 @@ This library works for IE8+, Mozilla Firefox 4+, Google Chrome 11+, Opera 10+, S
 ## Contributors
 [George Raptis](https://github.com/georapbox)
 
+## Projects using floativ
+* [Sprix](http://sprix.com/Home.aspx)
+* [OXAYDO](http://www.oxaydo.com/)
+
 ## License
 [GPL-3.0](LICENSE)
